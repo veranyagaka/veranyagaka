@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veranyagaka&label=Profile%20views&color=0e75b6&style=flat" alt="veranyagaka" /> </p>
 <img align="right" alt="Coding gif" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🌱 I’m currently learning **Laravel, node.js**
+- 🌱 I’m currently learning **Python, node.js**
 
 - 🤝 I’m looking for help with **JavaScript, React**
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/veranyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veranyagaka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vera=nyagaka-507b3a1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vera=nyagaka-507b3a1b2" height="30" width="40" /></a>
-<a href="https://instagram.com/vernyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vernyagaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veranyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vera=nyagaka-507b3a1b2" height="30" width="40" /></a>
+<a href="https://instagram.com/veranyagaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veranyagaka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
