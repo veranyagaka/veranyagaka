@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Advanced Distribution Management Systems (ADMS)**
 
-- 🤝 I’m looking for help with **JavaScript, React**
+- 🤝 I’m looking for help with **JavaScript, DevOps**
 
 - 📫 How to reach me **nyagakavera@gmail.com**
 
