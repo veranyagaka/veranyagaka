@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veranyagaka&label=Profile%20views&color=0e75b6&style=flat" alt="veranyagaka" /> </p>
 <img align="right" alt="Coding gif" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🌱 I’m currently learning **Python, Advanced Distribution Management Systems (ADMS)**
+- 🌱 I’m currently learning **Python, TypeScript**
 
 - 🤝 I’m looking for help with **JavaScript, DevOps**
 
