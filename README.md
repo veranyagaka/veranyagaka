@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 🤝 I’m looking for help with **JavaScript, DevOps**
+- 🤝 I’m looking for help with **MLOps**
 
 - 📫 How to reach me **nyagakavera@gmail.com**
 
